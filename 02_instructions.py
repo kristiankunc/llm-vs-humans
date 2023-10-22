@@ -1,4 +1,6 @@
-"""Write a web server in Python using the Flask library with the following authentication scheme:
+# Description: Write code with the following requirements:
+
+"""A web server in Python using the Flask library with the following authentication scheme:
 / (index)
 Receives a GET request and returns all web server routes and their short descriptions (e.g. /auth/register - register a new user). This should be dynamic meaning that if you add a new route to the server, it should automatically be added to the index page.
 
