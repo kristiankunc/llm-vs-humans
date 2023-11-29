@@ -1,4 +1,4 @@
-# Description: The following function contains bugs thus not returning the desired outupt with given test parameters. Find all bugs and fix it. The function should return a random 256-bit hex string if the username and password match the database and save the token into session_tokens with the token being the key and username as the value. If user does not exist or password is incorrect, raise a ValueError with a short error message.
+# Description: The following function contains bugs thus not returning the desired outupt with given test parameters. Find all bugs and fix it. The function should return a random 256-bit hex string if the username and password match the database and save the token into session_tokens with the token being the key and username as the value. If user does not exist or password is incorrect, raise a ValueError with a short error message. Test functions have their output commented after the function call.
 
 import random
 
